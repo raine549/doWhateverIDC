@@ -1,0 +1,14 @@
+C:\C#\studentTeacherOOP\bin\Debug\net8.0\studentTeacherOOP.exe
+C:\C#\studentTeacherOOP\bin\Debug\net8.0\studentTeacherOOP.deps.json
+C:\C#\studentTeacherOOP\bin\Debug\net8.0\studentTeacherOOP.runtimeconfig.json
+C:\C#\studentTeacherOOP\bin\Debug\net8.0\studentTeacherOOP.dll
+C:\C#\studentTeacherOOP\bin\Debug\net8.0\studentTeacherOOP.pdb
+C:\C#\studentTeacherOOP\obj\Debug\net8.0\studentTeacherOOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\studentTeacherOOP\obj\Debug\net8.0\studentTeacherOOP.AssemblyInfoInputs.cache
+C:\C#\studentTeacherOOP\obj\Debug\net8.0\studentTeacherOOP.AssemblyInfo.cs
+C:\C#\studentTeacherOOP\obj\Debug\net8.0\studentTeacherOOP.csproj.CoreCompileInputs.cache
+C:\C#\studentTeacherOOP\obj\Debug\net8.0\studentTeacherOOP.dll
+C:\C#\studentTeacherOOP\obj\Debug\net8.0\refint\studentTeacherOOP.dll
+C:\C#\studentTeacherOOP\obj\Debug\net8.0\studentTeacherOOP.pdb
+C:\C#\studentTeacherOOP\obj\Debug\net8.0\studentTeacherOOP.genruntimeconfig.cache
+C:\C#\studentTeacherOOP\obj\Debug\net8.0\ref\studentTeacherOOP.dll

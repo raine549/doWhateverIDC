@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "studentTeacherOOP/1.0.0": {
+        "runtime": {
+          "studentTeacherOOP.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "studentTeacherOOP/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

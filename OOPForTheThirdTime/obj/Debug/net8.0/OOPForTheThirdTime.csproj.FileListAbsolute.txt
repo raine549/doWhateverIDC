@@ -1,0 +1,14 @@
+C:\C#\OOPForTheThirdTime\bin\Debug\net8.0\OOPForTheThirdTime.exe
+C:\C#\OOPForTheThirdTime\bin\Debug\net8.0\OOPForTheThirdTime.deps.json
+C:\C#\OOPForTheThirdTime\bin\Debug\net8.0\OOPForTheThirdTime.runtimeconfig.json
+C:\C#\OOPForTheThirdTime\bin\Debug\net8.0\OOPForTheThirdTime.dll
+C:\C#\OOPForTheThirdTime\bin\Debug\net8.0\OOPForTheThirdTime.pdb
+C:\C#\OOPForTheThirdTime\obj\Debug\net8.0\OOPForTheThirdTime.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\OOPForTheThirdTime\obj\Debug\net8.0\OOPForTheThirdTime.AssemblyInfoInputs.cache
+C:\C#\OOPForTheThirdTime\obj\Debug\net8.0\OOPForTheThirdTime.AssemblyInfo.cs
+C:\C#\OOPForTheThirdTime\obj\Debug\net8.0\OOPForTheThirdTime.csproj.CoreCompileInputs.cache
+C:\C#\OOPForTheThirdTime\obj\Debug\net8.0\OOPForTheThirdTime.dll
+C:\C#\OOPForTheThirdTime\obj\Debug\net8.0\refint\OOPForTheThirdTime.dll
+C:\C#\OOPForTheThirdTime\obj\Debug\net8.0\OOPForTheThirdTime.pdb
+C:\C#\OOPForTheThirdTime\obj\Debug\net8.0\OOPForTheThirdTime.genruntimeconfig.cache
+C:\C#\OOPForTheThirdTime\obj\Debug\net8.0\ref\OOPForTheThirdTime.dll

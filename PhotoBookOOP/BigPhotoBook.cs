@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace PhotoBookOOP
 {
-    class BigPhotoBook
+    class BigPhotoBook : PhotoBook // Inherits from PhotoBook
     {
         private int numPages;
 
@@ -15,9 +15,9 @@ namespace PhotoBookOOP
             numPages = 64; // Default number of pages for a big photo book
         }
 
-        public int GetNumPages()
-        {
-            return numPages; // Return the number of pages
-        }
+        //public int GetNumPages()
+        //{
+        //    return numPages; // Return the number of pages
+        //}
     }
 }

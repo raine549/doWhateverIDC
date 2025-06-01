@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PhotoBookOOP")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2a8094186d6c6cc3ff8ca574d8d2ac63d770aef2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9600a4ae72f76f94433121ee8e1349864d8b4cd3")]
 [assembly: System.Reflection.AssemblyProductAttribute("PhotoBookOOP")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PhotoBookOOP")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,15 @@
+C:\C#\PhotoBookOOP\obj\Debug\net8.0\PhotoBookOOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\PhotoBookOOP\obj\Debug\net8.0\PhotoBookOOP.AssemblyInfoInputs.cache
+C:\C#\PhotoBookOOP\obj\Debug\net8.0\PhotoBookOOP.AssemblyInfo.cs
+C:\C#\PhotoBookOOP\obj\Debug\net8.0\PhotoBookOOP.csproj.CoreCompileInputs.cache
+C:\C#\PhotoBookOOP\obj\Debug\net8.0\PhotoBookOOP.sourcelink.json
+C:\C#\PhotoBookOOP\bin\Debug\net8.0\PhotoBookOOP.exe
+C:\C#\PhotoBookOOP\bin\Debug\net8.0\PhotoBookOOP.deps.json
+C:\C#\PhotoBookOOP\bin\Debug\net8.0\PhotoBookOOP.runtimeconfig.json
+C:\C#\PhotoBookOOP\bin\Debug\net8.0\PhotoBookOOP.dll
+C:\C#\PhotoBookOOP\bin\Debug\net8.0\PhotoBookOOP.pdb
+C:\C#\PhotoBookOOP\obj\Debug\net8.0\PhotoBookOOP.dll
+C:\C#\PhotoBookOOP\obj\Debug\net8.0\refint\PhotoBookOOP.dll
+C:\C#\PhotoBookOOP\obj\Debug\net8.0\PhotoBookOOP.pdb
+C:\C#\PhotoBookOOP\obj\Debug\net8.0\PhotoBookOOP.genruntimeconfig.cache
+C:\C#\PhotoBookOOP\obj\Debug\net8.0\ref\PhotoBookOOP.dll

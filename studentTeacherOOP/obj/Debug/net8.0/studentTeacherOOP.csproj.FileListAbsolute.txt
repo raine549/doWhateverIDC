@@ -12,3 +12,4 @@ C:\C#\studentTeacherOOP\obj\Debug\net8.0\refint\studentTeacherOOP.dll
 C:\C#\studentTeacherOOP\obj\Debug\net8.0\studentTeacherOOP.pdb
 C:\C#\studentTeacherOOP\obj\Debug\net8.0\studentTeacherOOP.genruntimeconfig.cache
 C:\C#\studentTeacherOOP\obj\Debug\net8.0\ref\studentTeacherOOP.dll
+C:\C#\studentTeacherOOP\obj\Debug\net8.0\studentTeacherOOP.sourcelink.json

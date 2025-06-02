@@ -1,0 +1,15 @@
+C:\C#\VehicleOOP\bin\Debug\net8.0\VehicleOOP.exe
+C:\C#\VehicleOOP\bin\Debug\net8.0\VehicleOOP.deps.json
+C:\C#\VehicleOOP\bin\Debug\net8.0\VehicleOOP.runtimeconfig.json
+C:\C#\VehicleOOP\bin\Debug\net8.0\VehicleOOP.dll
+C:\C#\VehicleOOP\bin\Debug\net8.0\VehicleOOP.pdb
+C:\C#\VehicleOOP\obj\Debug\net8.0\VehicleOOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\VehicleOOP\obj\Debug\net8.0\VehicleOOP.AssemblyInfoInputs.cache
+C:\C#\VehicleOOP\obj\Debug\net8.0\VehicleOOP.AssemblyInfo.cs
+C:\C#\VehicleOOP\obj\Debug\net8.0\VehicleOOP.csproj.CoreCompileInputs.cache
+C:\C#\VehicleOOP\obj\Debug\net8.0\VehicleOOP.sourcelink.json
+C:\C#\VehicleOOP\obj\Debug\net8.0\VehicleOOP.dll
+C:\C#\VehicleOOP\obj\Debug\net8.0\refint\VehicleOOP.dll
+C:\C#\VehicleOOP\obj\Debug\net8.0\VehicleOOP.pdb
+C:\C#\VehicleOOP\obj\Debug\net8.0\VehicleOOP.genruntimeconfig.cache
+C:\C#\VehicleOOP\obj\Debug\net8.0\ref\VehicleOOP.dll

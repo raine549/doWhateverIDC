@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\C#\\Obj1Task1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{53BD1429-A759-488C-A262-CDD7A79773B9}|Obj1Task1.csproj|c:\\c#\\obj1task1\\aaaaaaaa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53BD1429-A759-488C-A262-CDD7A79773B9}|Obj1Task1.csproj|solutionrelative:aaaaaaaa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{53BD1429-A759-488C-A262-CDD7A79773B9}|Obj1Task1.csproj|c:\\c#\\obj1task1\\stuctknowledgeconsolidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{53BD1429-A759-488C-A262-CDD7A79773B9}|Obj1Task1.csproj|solutionrelative:stuctknowledgeconsolidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{53BD1429-A759-488C-A262-CDD7A79773B9}|Obj1Task1.csproj|c:\\c#\\obj1task1\\recordsandfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{53BD1429-A759-488C-A262-CDD7A79773B9}|Obj1Task1.csproj|solutionrelative:recordsandfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{53BD1429-A759-488C-A262-CDD7A79773B9}|Obj1Task1.csproj|c:\\c#\\obj1task1\\aaaaaaaa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{53BD1429-A759-488C-A262-CDD7A79773B9}|Obj1Task1.csproj|solutionrelative:aaaaaaaa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{53BD1429-A759-488C-A262-CDD7A79773B9}|Obj1Task1.csproj|c:\\c#\\obj1task1\\structbasics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -35,8 +35,8 @@
       "RelativeMoniker": "D:0:0:{53BD1429-A759-488C-A262-CDD7A79773B9}|Obj1Task1.csproj|solutionrelative:class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{53BD1429-A759-488C-A262-CDD7A79773B9}|Obj1Task1.csproj|c:\\c#\\obj1task1\\methodsbasics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{53BD1429-A759-488C-A262-CDD7A79773B9}|Obj1Task1.csproj|solutionrelative:methodsbasics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\C#\\Obj1Task1\\MethodsBasics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MethodsBasics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,15 +46,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "StuctKnowledgeConsolidation.cs",
               "DocumentMoniker": "C:\\C#\\Obj1Task1\\StuctKnowledgeConsolidation.cs",
               "RelativeDocumentMoniker": "StuctKnowledgeConsolidation.cs",
@@ -75,12 +79,11 @@
               "RelativeToolTip": "ArrayAndSearch.cs",
               "ViewState": "AgIAACQAAAAAAAAAAAAAACwAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T17:59:48.619Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-01T17:59:48.619Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "RecordsAndFile.cs",
               "DocumentMoniker": "C:\\C#\\Obj1Task1\\RecordsAndFile.cs",
               "RelativeDocumentMoniker": "RecordsAndFile.cs",
@@ -88,12 +91,7 @@
               "RelativeToolTip": "RecordsAndFile.cs",
               "ViewState": "AgIAAAEAAAAAAAAAAAAAABQAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T16:26:19.361Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+              "WhenOpened": "2024-12-01T16:26:19.361Z"
             },
             {
               "$type": "Document",
@@ -105,12 +103,11 @@
               "RelativeToolTip": "StructBasics.cs",
               "ViewState": "AgIAAAEAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T15:10:55.89Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-01T15:10:55.89Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "AAAAAAAA.cs",
               "DocumentMoniker": "C:\\C#\\Obj1Task1\\AAAAAAAA.cs",
               "RelativeDocumentMoniker": "AAAAAAAA.cs",
@@ -131,8 +128,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-12T08:48:34.693Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-12T08:48:34.693Z"
             },
             {
               "$type": "Document",
@@ -144,8 +140,7 @@
               "RelativeToolTip": "ArraysAndListsBasics.cs",
               "ViewState": "AgIAAGYAAAAAAAAAAAAAAHwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T13:10:41.25Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-30T13:10:41.25Z"
             },
             {
               "$type": "Document",
@@ -157,8 +152,7 @@
               "RelativeToolTip": "MethodsBasics.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAQwBYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T15:02:03.907Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-30T15:02:03.907Z"
             },
             {
               "$type": "Document",
@@ -170,8 +164,7 @@
               "RelativeToolTip": "Class1.cs",
               "ViewState": "AgIAAAQAAAAAAAAAAAAYwBwAAABHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-12T08:58:47.426Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-12T08:58:47.426Z"
             }
           ]
         }

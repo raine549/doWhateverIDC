@@ -6,10 +6,15 @@ using System.Threading.Tasks;
 
 namespace VehicleOOP
 {
-    class Car 
+    class Car : IVehicle
     {
 
         public int gasolineAmount;
+
+        public Car( int gasolineAmount)
+        {
+            this.gasolineAmount = gasolineAmount;
+        }
         public void drive()
         {
             if (gasolineAmount > 0)

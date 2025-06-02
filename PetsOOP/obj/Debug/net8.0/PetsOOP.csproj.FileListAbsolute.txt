@@ -1,0 +1,15 @@
+C:\C#\PetsOOP\bin\Debug\net8.0\PetsOOP.exe
+C:\C#\PetsOOP\bin\Debug\net8.0\PetsOOP.deps.json
+C:\C#\PetsOOP\bin\Debug\net8.0\PetsOOP.runtimeconfig.json
+C:\C#\PetsOOP\bin\Debug\net8.0\PetsOOP.dll
+C:\C#\PetsOOP\bin\Debug\net8.0\PetsOOP.pdb
+C:\C#\PetsOOP\obj\Debug\net8.0\PetsOOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\PetsOOP\obj\Debug\net8.0\PetsOOP.AssemblyInfoInputs.cache
+C:\C#\PetsOOP\obj\Debug\net8.0\PetsOOP.AssemblyInfo.cs
+C:\C#\PetsOOP\obj\Debug\net8.0\PetsOOP.csproj.CoreCompileInputs.cache
+C:\C#\PetsOOP\obj\Debug\net8.0\PetsOOP.sourcelink.json
+C:\C#\PetsOOP\obj\Debug\net8.0\PetsOOP.dll
+C:\C#\PetsOOP\obj\Debug\net8.0\refint\PetsOOP.dll
+C:\C#\PetsOOP\obj\Debug\net8.0\PetsOOP.pdb
+C:\C#\PetsOOP\obj\Debug\net8.0\PetsOOP.genruntimeconfig.cache
+C:\C#\PetsOOP\obj\Debug\net8.0\ref\PetsOOP.dll
